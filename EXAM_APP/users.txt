@@ -1,2 +1,0 @@
-200,a1998,A@gmail.com,Ahmed
-301,ab1998,AB@gmail.com,Abbas
